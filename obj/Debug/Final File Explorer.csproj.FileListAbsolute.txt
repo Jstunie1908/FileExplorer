@@ -1,0 +1,10 @@
+F:\Desktop\Sách\20211\Project I\FileExplorer\Final File Explorer\Final File Explorer\bin\Debug\Final File Explorer.exe.config
+F:\Desktop\Sách\20211\Project I\FileExplorer\Final File Explorer\Final File Explorer\bin\Debug\Final File Explorer.exe
+F:\Desktop\Sách\20211\Project I\FileExplorer\Final File Explorer\Final File Explorer\bin\Debug\Final File Explorer.pdb
+F:\Desktop\Sách\20211\Project I\FileExplorer\Final File Explorer\Final File Explorer\obj\Debug\Final File Explorer.csproj.AssemblyReference.cache
+F:\Desktop\Sách\20211\Project I\FileExplorer\Final File Explorer\Final File Explorer\obj\Debug\Final_File_Explorer.Properties.Resources.resources
+F:\Desktop\Sách\20211\Project I\FileExplorer\Final File Explorer\Final File Explorer\obj\Debug\Final File Explorer.csproj.GenerateResource.cache
+F:\Desktop\Sách\20211\Project I\FileExplorer\Final File Explorer\Final File Explorer\obj\Debug\Final File Explorer.csproj.CoreCompileInputs.cache
+F:\Desktop\Sách\20211\Project I\FileExplorer\Final File Explorer\Final File Explorer\obj\Debug\Final File Explorer.exe
+F:\Desktop\Sách\20211\Project I\FileExplorer\Final File Explorer\Final File Explorer\obj\Debug\Final File Explorer.pdb
+F:\Desktop\Sách\20211\Project I\FileExplorer\Final File Explorer\Final File Explorer\obj\Debug\Final_File_Explorer.HomeForm.resources
